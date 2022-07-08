@@ -1,9 +1,7 @@
-==================================================================
 #Getting and Cleaning Data Course Project
 
 Author: Billy Shen
 
-==================================================================
 #Objectives
 
 1. a tidy data set of the Human Activity Recognition Using Smartphones Data Set from UCI Machine Learning Repository ("UCI HAR Dataset")
@@ -11,7 +9,6 @@ Author: Billy Shen
 3. a code book that describes the variables, the data, and transformations performed to clean up the data called CodeBook.md.
 4. the analysis R script called 'run_analysis.R'
 
-=========================================
 #This repo includes the following files:
 
 - 'README.md': this file you are reading
@@ -22,7 +19,6 @@ Author: Billy Shen
 
 - 'tidydata.txt': clean tidy data set with the average of the measurements on the mean and standard deviation for each activity and each subject.
 
-========
 #License:
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
