@@ -4,7 +4,7 @@ Author: Billy Shen
 
 # Objectives
 
-1. a tidy data set of the Human Activity Recognition Using Smartphones Data Set from UCI Machine Learning Repository ("UCI HAR Dataset")
+1. a tidy data set of the Human Activity Recognition Using Smartphones Data Set ("UCI HAR Dataset") from UCI Machine Learning Repository
 2. a link to a Github repository with script for performing the analysis
 3. a code book that describes the variables, the data, and transformations performed to clean up the data called CodeBook.md.
 4. the analysis R script called 'run_analysis.R'
