@@ -17,7 +17,7 @@ Author: Billy Shen
 
 - 'run_analysis.R': script for performing the data clean up of the Human Activity Recognition Using Smartphones Data Set 
 
-- 'tidydata.txt': clean tidy data set with the average of the measurements on the mean and standard deviation for each activity and each subject.
+- 'tidydata.txt': clean tidy data set with the average of the measurements on the mean and standard deviation for each activity and each subject.  Data set as a txt file created with write.table() using row.name=FALSE
 
 ## License:
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
